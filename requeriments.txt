@@ -1,7 +1,0 @@
-pandas-profiling
-sklearn
-matplotlib
-numpy 
-pandas 
-streamlit
-xlrd

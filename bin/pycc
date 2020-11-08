@@ -1,3 +1,0 @@
-#!/home/laercio/Projetos/Python/AnaliseVinho/AnaliseVinho/bin/python
-from numba.pycc import main
-main()
